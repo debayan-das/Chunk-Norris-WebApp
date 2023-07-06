@@ -1,0 +1,116 @@
+body {
+  background-color: #283a46;
+  color: white;
+}
+
+header {
+  background-color: #2A3E4C;
+  padding: 10px 0 0 25px;
+  margin: -5px;
+}
+
+nav {
+  padding: 3% 1.5% 1%;
+}
+
+footer {
+  background-color: #2A3E4C;
+}
+
+.logo1 {
+  width: 18%;
+}
+
+.logo2 {
+  width: 16%;
+  padding-left: 24%;
+}
+
+#name {
+  padding-top: 2%;
+}
+
+#container1 {
+  padding-right: 0%;
+}
+
+#container2 {
+  padding: 0 1%;
+}
+
+#container3 {
+  padding-left: 0%;
+}
+
+button {
+  background-color: #283a46;
+  color: white;
+  padding: 0.5% 1%;
+  border: 1.5px solid #45b3df;
+  margin: -3px;
+  width: 13%;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#bt1 {
+  background-color: #14AFF1;
+  /*#28b7f0;*/
+  border-color: #91d3ee;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+#bt2 {
+  border-right: none;
+}
+
+#bt3 {
+  border-left: 1.5px solid #195f7a;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+#refresh {
+  margin-left: 0.5%;
+  width: 4%;
+  border-radius: 5px;
+}
+
+#refresh img {
+  width: 65%;
+  height: 2vh;
+}
+
+#bt4 {
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+#bt5 {
+  border-top: 1.5px solid black;
+  border-bottom: 1.5px solid black;
+}
+
+#bt6 {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+#search-box {
+  width: 15%;
+  height: 30px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#search-box:focus {
+  outline: none;
+}
+
+#grid {
+  height: 55vh;
+}
